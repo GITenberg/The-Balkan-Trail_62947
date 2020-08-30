@@ -1,5 +1,5 @@
 _repo: The-Balkan-Trail_62947
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Holiday, Gilbert, 1879-1937
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52193'
     url: http://www.gutenberg.org/2009/agents/52193
     wikipedia: https://en.wikipedia.org/wiki/Gilbert_Holiday
+covers:
+- cover_type: archival
+  image_path: 62947-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Frederick F. (Frederick Ferdinand)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '3782'
     url: http://www.gutenberg.org/2009/agents/3782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62947#The-Balkan-Trail
 gutenberg_issued: '2020-08-16'
 gutenberg_type: Text
 identifiers:
